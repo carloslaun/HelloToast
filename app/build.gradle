@@ -6,7 +6,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.hellotoast"
+        applicationId "com.example.HelloConstraint"
         minSdk 17
         targetSdk 31
         versionCode 1
@@ -25,6 +25,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    compileSdkVersion 31
 }
 
 dependencies {
